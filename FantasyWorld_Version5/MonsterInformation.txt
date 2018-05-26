@@ -1,0 +1,4 @@
+Orc_Warrior,300,200
+Orc_Elder,600,400
+Zombie_Warrior,250,250
+Zombie_Elder,500,500
